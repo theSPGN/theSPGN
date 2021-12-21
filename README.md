@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @theSPGN
-- 👀 I’m looking for coding tutorials
-- 🤑 I want to become professional developer
+Programming sux- Said no one ever
