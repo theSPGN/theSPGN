@@ -13,4 +13,7 @@
   <h4> ➡ Looking for a job as software python developer </h4>
 </div>
 
+<img src ="https://github.com/theSPGN/theSPGN/assets/94869555/b7ba6333-abe5-4e5a-bd0d-6805f97b3c76" alt = "https://tenor.com/pl/view/pepe-hack-hack-pepo-pepe-gif-21294949" width = 40% />
+<img src ="https://github.com/theSPGN/theSPGN/assets/94869555/8b2aad35-bea0-4ca1-9898-71be1f748610" alt = "https://tenor.com/pl/view/anonymous-anonymous-bites-back-geek-pepe-pepe-matrix-gif-14778477" width = 50% />
+
 
