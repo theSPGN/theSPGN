@@ -11,6 +11,7 @@
   <h4> ➡ I enjoy learning new things </h4>
   <h4> ➡ I possessed the secret knowledge of getting out of Vim ;) </h4>
   <h4> ➡ Looking for a job as software python developer </h4>
+  <h4> ➡ Currently interested in: embedded systems :) </h4>
 </div>
 
 
